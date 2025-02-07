@@ -1,0 +1,8 @@
+mage-ai
+python-dotenv
+sshtunnel
+psycopg2-binary      # PostgreSQL adapter for Python
+pandas
+datetime
+botocore
+dask[dataframe]
